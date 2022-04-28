@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Anything
-- 📫 How to reach me: 
+- 📫 How to reach me: LinkedIn and Email:theraval@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm learning Spanish
 -->
